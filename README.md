@@ -1,3 +1,3 @@
 # Tutorial
 This is my first repo
-Auhor- Aakashi Jaiswal
+Author- Aakashi Jaiswal
